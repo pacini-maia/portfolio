@@ -1,3 +1,1 @@
-# Maia's Portfolio
-
-### Coming soon!
+# Coming soon!
