@@ -131,3 +131,35 @@ footer {
     padding-left: 1rem !important;
     padding-right: 1rem !important;
 }
+
+    .course-entry {
+            border-bottom: 1px solid #e5e7eb;
+            padding-bottom: 1.75rem;
+            margin-bottom: 1.75rem;
+        }
+
+        .course-entry:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+
+
+        .service-entry {
+            border-bottom: 1px solid #e5e7eb;
+            padding-bottom: 1.75rem;
+            margin-bottom: 1.75rem;
+        }
+
+        .service-entry:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
+
+        .sub-heading {
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.07em;
+            color: #6b7280;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+        }
