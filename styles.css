@@ -163,3 +163,23 @@ footer {
             font-weight: 500;
             margin-bottom: 1.5rem;
         }
+
+  .interest-tag {
+            display: inline-block;
+            background-color: #e5e7eb;
+            color: #374151;
+            border-radius: 6px;
+            padding: 0.3rem 0.75rem;
+            font-size: 0.875rem;
+        }
+
+        .edu-entry {
+            border-bottom: 1px solid #e5e7eb;
+            padding-bottom: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .edu-entry:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+        }
